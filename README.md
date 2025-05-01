@@ -9,7 +9,7 @@ The implementation of its components is usually achieved through the CSS3 UI Cre
 ## Screenshots
 
 ### `Patterns Gallery`
-![test](https://media.licdn.com/dms/image/v2/D4D22AQHyOiidLu0oVA/feedshare-shrink_2048_1536/B4DZWxO7qLHYAo-/0/1742435237322?e=1745452800&v=beta&t=dJvvfy0EsPyfBU6S-9RhaPhCnOzlGanEd2JzGF94RSI)
+![Patterns Gallery](https://s.ascoos.com/images/bootlib/pub/screenshot-0014.png)
 
 ### `Font Icons`
-![](https://media.licdn.com/dms/image/v2/D4D22AQEFyZdsJzIEIQ/feedshare-shrink_2048_1536/B4DZWxO7qIG4Ao-/0/1742435237071?e=1745452800&v=beta&t=v9JDakzBSlzxoQGihOBfZwb5PPOcNiI7SXTUc9BDeWk)
+![Font Icons](https://s.ascoos.com/images/bootlib/pub/screenshot-0037.png)

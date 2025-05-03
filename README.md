@@ -63,6 +63,21 @@
 
 ---
 
+## Table of Contents
+- [What is the BootLib Framework?](#what-is-the-bootlib-framework)
+- [Why Choose BootLib?](#why-choose-bootlib)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Usage Example](#usage-example)
+- [Abbreviations](#abbreviations)
+- [Themes](#themes)
+- [Helper Applications](#helper-applications)
+- [Online Examples](#online-examples)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+---
+
 ## What is the BootLib Framework?
 
 BootLib (Boot Library) is a Frontend/Backend CSS, jQuery, and PHP framework aimed at facilitating developers in creating their projects.
@@ -248,7 +263,7 @@ For example, the styling of a paragraph takes the following form:
 
 ---
 
-## 🎨 Themes
+## Themes
 BootLib comes with hundreds of styling classes for each individual visual element, as well as complete themes for the appearance of the entire website.
 
 For example, if you apply the `retro-terminal` theme to the `<body>`, all HTML elements will appear with the look of an old terminal (bright green on a black background). This, of course, assumes you haven’t applied any other styling class to an HTML element later.
@@ -261,7 +276,7 @@ For example, if you apply the `retro-terminal` theme to the `<body>`, all HTML e
 
 ---
 
-## Helper Applications - Control Applications
+## Helper Applications
 
 On the official `BootLib` website (which is under construction), there will be a variety of helper pages and applications to help you better utilize the framework.
 
@@ -315,12 +330,12 @@ The `Animation Playground` application will help you understand each effect, obt
 
 ---
 
-## 📜 License
-This project is licensed under the [AGL-F](https://github.com/alexsoft-software/bootlib/LICENSE_AGL-F.md) license. See the LICENSE file for details.
+## License
+This project is licensed under the [AGL-F](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md) license. See the LICENSE file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 BootLib is inspired by the need for faster and easier websites.
 
 Let’s make BootLib the future of CSS Frameworks together! 🚀

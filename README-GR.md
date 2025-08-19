@@ -1,4 +1,4 @@
-# ✨BootLib [Web Design Framework]
+# ✨BootLib [UI Framework]
 
 ### Για την αγγλική έκδοση, δείτε το [README.md](README.md).
 
@@ -340,3 +340,4 @@
 Το BootLib εμπνέεται από την ανάγκη για ταχύτερες και πιο εύκολες ιστοσελίδες.
 
 Ας κάνουμε μαζί, το BootLib το μέλλον των CSS Frameworks! 🚀
+

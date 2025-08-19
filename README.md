@@ -1,4 +1,4 @@
-# ✨BootLib [Web Design Framework]
+# ✨BootLib [UI Framework]
 
 ### For the Greek version, see [README-GR.md](README-GR.md).
 
@@ -339,5 +339,6 @@ This project is licensed under the [AGL-F](https://github.com/alexsoft-software/
 BootLib is inspired by the need for faster and easier websites.
 
 Let’s make BootLib the future of CSS Frameworks together! 🚀
+
 
 

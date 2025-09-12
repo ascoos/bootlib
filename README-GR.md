@@ -6,7 +6,7 @@
 
 [![Ascoos Bootlib Framework - state of Official Website](https://img.shields.io/website?url=https://bootlib.ascoos.com)](https://bootlib.ascoos.com) 
 [![License: AGL-F](https://img.shields.io/badge/License-AGL--F-blue.svg)](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md)
-[![Version](https://img.shields.io/badge/version-1.0.0a1-darkgreen.svg)](https://bootlib.ascoos.com)
+[![Version](https://img.shields.io/badge/version-1.0.0a3-darkgreen.svg)](https://bootlib.ascoos.com)
 
 ***
 
@@ -122,8 +122,8 @@
 
 ```html
 
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.ext.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
 
 ```
 
@@ -140,7 +140,9 @@
 ### Γρήγορη Εκκίνηση
 Μετατρέψτε ένα anchor σε μορφή κουμπιού με εφέ κίνησης στο δευτερόλεπτο:
 ```html
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+
 <a class="blib-btn blib-btn-outline-primary blib-e-ani-bounce-glow" href="#">Κλικ εδώ!</a>
 ```
 
@@ -169,8 +171,8 @@
 <meta charset="utf-8" />
 <meta name="description" content="Creates a horizontal layout with three elements and effects." />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.ext.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
 <style>
     body {margin: 0; padding: 0;}
     a {margin-top: 10px; text-decoration: none;}
@@ -340,4 +342,5 @@
 Το BootLib εμπνέεται από την ανάγκη για ταχύτερες και πιο εύκολες ιστοσελίδες.
 
 Ας κάνουμε μαζί, το BootLib το μέλλον των CSS Frameworks! 🚀
+
 

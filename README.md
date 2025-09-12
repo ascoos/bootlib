@@ -6,7 +6,7 @@
 
 [![Ascoos Bootlib Framework - state of Official Website](https://img.shields.io/website?url=https://bootlib.ascoos.com)](https://bootlib.ascoos.com) 
 [![License: AGL-F](https://img.shields.io/badge/License-AGL--F-blue.svg)](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md)
-[![Version](https://img.shields.io/badge/version-1.0.0a1-darkgreen.svg)](https://bootlib.ascoos.com)
+[![Version](https://img.shields.io/badge/version-1.0.0a3-darkgreen.svg)](https://bootlib.ascoos.com)
 
 ***
 
@@ -123,8 +123,8 @@ To use BootLib, you need to include one (or two, if you want to use extended lib
 
 ```html
 
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.ext.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
 
 ```
 
@@ -141,8 +141,11 @@ The JavaScript file will be available in an upcoming release.
 ### Quick Start
 Transform an anchor into a button with a motion effect in seconds:
 ```html
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+
 <a class="blib-btn blib-btn-outline-primary blib-e-ani-bounce-glow" href="#">Click here!</a>
+
 ```
 
 ---
@@ -170,8 +173,9 @@ In the following example (which you can view online at [Flex Examples](https://b
 <meta charset="utf-8" />
 <meta name="description" content="Creates a horizontal layout with three elements and effects." />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.ext.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
+<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+
 <style>
     body {margin: 0; padding: 0;}
     a {margin-top: 10px; text-decoration: none;}
@@ -339,6 +343,7 @@ This project is licensed under the [AGL-F](https://github.com/alexsoft-software/
 BootLib is inspired by the need for faster and easier websites.
 
 Let’s make BootLib the future of CSS Frameworks together! 🚀
+
 
 
 

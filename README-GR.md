@@ -4,61 +4,58 @@
 
 ---
 
-[![Ascoos Bootlib Framework - state of Official Website](https://img.shields.io/website?url=https://bootlib.ascoos.com)](https://bootlib.ascoos.com) 
-[![License: AGL-F](https://img.shields.io/badge/License-AGL--F-blue.svg)](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md)
-[![Version](https://img.shields.io/badge/version-1.0.0a3-darkgreen.svg)](https://bootlib.ascoos.com)
+[![Ascoos Bootlib Framework - κατάσταση επίσημης ιστοσελίδας](https://img.shields.io/website?url=https://bootlib.ascoos.com&style=for-the-badge&labelColor=%234e555b&color=006400)](https://bootlib.ascoos.com) 
+[![Άδεια AGL-F](https://img.shields.io/badge/AGL--F-blue?style=for-the-badge&label=ΑΔΕΙΑ%20ΧΡΗΣΗΣ&labelColor=%234e555b&color=873260)](https://github.com/ascoos/bootlib/blob/main/LICENSE_AGL-F.md)
+[![Το BootLib είναι υπό ανάπτυξη](https://img.shields.io/badge/1.0.0%20alpha%207-blue?style=for-the-badge&label=ΕΚΔΟΣΗ%20ΑΝΑΠΤΥΞΗΣ&labelColor=041f60&color=034f84)](https://bootlib.ascoos.com)
 
 ***
 
 <details>
 <summary>
-  🟠 General informations
+  🟠 Γενικές πληροφορίες
 </summary>
 <br>
 
-![Ascoos Bootlib Framework - Forks](https://img.shields.io/github/forks/alexsoft-software/bootlib)
-![Ascoos Bootlib Framework - Stars](https://img.shields.io/github/stars/alexsoft-software/bootlib)
-![Ascoos Bootlib Framework - Watchers](https://img.shields.io/github/watchers/alexsoft-software/bootlib)
+![Ascoos Bootlib Framework - Forks](https://img.shields.io/github/forks/ascoos/bootlib)
+![Ascoos Bootlib Framework - Stars](https://img.shields.io/github/stars/ascoos/bootlib)
+![Ascoos Bootlib Framework - Watchers](https://img.shields.io/github/watchers/ascoos/bootlib)
 </details>
 
 <details>
 <summary>
-  🟠 Repository and Releases
+  🟠 Αποθετήριο και Κυκλοφορίες
 </summary>
 <br>
 
-[![Ascoos Bootlib Framework - Release](https://img.shields.io/github/v/release/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/releases)
-![Ascoos Bootlib Framework - Release Date](https://img.shields.io/github/release-date/alexsoft-software/bootlib?color=%230E80C0)
-![Ascoos Bootlib Framework - Downloads (all assets, all releases)](https://img.shields.io/github/downloads/alexsoft-software/bootlib/total?color=%230E80C0) 
-[![Ascoos Bootlib Framework - latest release tag](https://img.shields.io/github/tag/alexsoft-software/bootlib.svg)](https://github.com/alexsoft-software/bootlib/tags)
+[![Ascoos Bootlib Framework - Release](https://img.shields.io/github/v/release/ascoos/bootlib)](https://github.com/ascoos/bootlib/releases)
+![Ascoos Bootlib Framework - Release Date](https://img.shields.io/github/release-date/ascoos/bootlib?color=%230E80C0)
+![Ascoos Bootlib Framework - Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/bootlib/total?color=%230E80C0) 
+[![Ascoos Bootlib Framework - latest release tag](https://img.shields.io/github/tag/ascoos/bootlib.svg)](https://github.com/ascoos/bootlib/tags)
+![Ascoos Bootlib Framework - repo size](https://img.shields.io/github/repo-size/ascoos/bootlib)
 
-![Ascoos Bootlib Framework - repo size](https://img.shields.io/github/repo-size/alexsoft-software/bootlib)
-[![Ascoos Bootlib Framework - total lines](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=lines)](https://github.com/alexsoft-software/bootlib)
-[![Ascoos Bootlib Framework - source code lines](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=code)](https://github.com/alexsoft-software/bootlib) 
-[![Ascoos Bootlib Framework - files in repository](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=files)](https://github.com/alexsoft-software/bootlib)
 </details>
 
 <details>
 <summary>
-  🟠 Issues - Requests
+  🟠 Θέματα - Αιτήματα
 </summary>
 <br>
 
-[![Ascoos Bootlib Framework - Open Issues](https://img.shields.io/github/issues/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/issues)
-[![Ascoos Bootlib Framework - Closed Issues](https://img.shields.io/github/issues-closed/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/issues)
-[![Ascoos Bootlib Framework - Open Pull Requests](https://img.shields.io/github/issues-pr/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/pulls)
-[![Ascoos Bootlib Framework - Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/pulls)
-![Ascoos Bootlib Framework - Last Commit](https://img.shields.io/github/last-commit/alexsoft-software/bootlib)
+[![Ascoos Bootlib Framework - Open Issues](https://img.shields.io/github/issues/ascoos/bootlib)](https://github.com/ascoos/bootlib/issues)
+[![Ascoos Bootlib Framework - Closed Issues](https://img.shields.io/github/issues-closed/ascoos/bootlib)](https://github.com/ascoos/bootlib/issues)
+[![Ascoos Bootlib Framework - Open Pull Requests](https://img.shields.io/github/issues-pr/ascoos/bootlib)](https://github.com/ascoos/bootlib/pulls)
+[![Ascoos Bootlib Framework - Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/ascoos/bootlib)](https://github.com/ascoos/bootlib/pulls)
+![Ascoos Bootlib Framework - Last Commit](https://img.shields.io/github/last-commit/ascoos/bootlib)
 </details>
 
 <details>
 <summary>
-  🟠 Quick Links
+  🟠 Γρήγοροι Σύνδεσμοι
 </summary><br>
 
-- [Official Website](https://bootlib.ascoos.com)
-- [Flex Examples](https://bootlib.ascoos.com/examples/flex/)
-- [Ascoos Framework](https://sourceforge.net/projects/ascoos-fw/)
+- [Επίσημη Ιστοσελίδα](https://bootlib.ascoos.com)
+- [Παραδείγματα BootLib Flex](https://bootlib.ascoos.com/examples/flex/)
+- [Ascoos OS](https://os.ascoos.com)
 </details>
 
 ---
@@ -86,7 +83,7 @@
 
 Η υλοποίηση των συστατικών του γίνεται συνήθως από το CSS3 UI Creator code, αλλά υπάρχουν συστατικά που υλοποιούνται μέσω της jQuery κλάσης `BootLib`.
 
-Το framework αυτό θα αποτελεί ένα από συστατικά του πυρήνα του νέου [Ascoos Framework](https://sourceforge.net/projects/ascoos-fw/) και κατ' επέκταση και του νέου `Ascoos cms`.
+Το framework αυτό θα αποτελεί ένα από συστατικά του πυρήνα του νέου [Ascoos OS](https://os.ascoos.com) και κατ' επέκταση και του νέου `Ascoos Oxyzen`.
 
 ---
 
@@ -121,10 +118,8 @@
 > Προς το παρόν είναι διαθέσιμες μόνο οι πρώτες δοκιμαστικές βιβλιοθήκες καθώς όπως είπαμε το framework επεκτείνεται και βελτιώνεται σχεδόν καθημερινά, έως την τελική του μορφή.
 
 ```html
-
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
-
+   <link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+   <link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 ```
 
 Για να χρησιμοποιήσετε τις εκτεταμένες δυνατότητες με χρήση και του BootLib Javascript Library (**`Bojali`** -- Στα Αλβανικά η λέξη σημαίνει αγκυροβόλιο.... όλο νόημα για το `BootLib`), θα πρέπει να φορτώσετε και το javascript αρχέιο το οποίο όμως δεν είναι προς το παρόν διαθέσιμο. 
@@ -133,15 +128,15 @@
 
 ```html
 
-<script type="javascript" src="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.js"></script>
+<script type="javascript" src="https://cdn.ascoos.com/bootlib/js/bootlib.min.js"></script>
 
 ```
 
 ### Γρήγορη Εκκίνηση
 Μετατρέψτε ένα anchor σε μορφή κουμπιού με εφέ κίνησης στο δευτερόλεπτο:
 ```html
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 
 <a class="blib-btn blib-btn-outline-primary blib-e-ani-bounce-glow" href="#">Κλικ εδώ!</a>
 ```
@@ -171,8 +166,8 @@
 <meta charset="utf-8" />
 <meta name="description" content="Creates a horizontal layout with three elements and effects." />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 <style>
     body {margin: 0; padding: 0;}
     a {margin-top: 10px; text-decoration: none;}
@@ -334,7 +329,7 @@
 ---
 
 ## Άδεια Χρήσης
-Αυτό το έργο αδειοδοτείται υπό την άδεια [AGL-F](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md). Δείτε το αρχείο LICENSE για λεπτομέρειες.
+Αυτό το έργο αδειοδοτείται υπό την άδεια [AGL-F](https://github.com/ascoos/bootlib/blob/main/LICENSE_AGL-F.md). Δείτε το αρχείο LICENSE για λεπτομέρειες.
 
 ---
 

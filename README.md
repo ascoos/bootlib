@@ -4,9 +4,9 @@
 
 ---
 
-[![Ascoos Bootlib Framework - state of Official Website](https://img.shields.io/website?url=https://bootlib.ascoos.com)](https://bootlib.ascoos.com) 
-[![License: AGL-F](https://img.shields.io/badge/License-AGL--F-blue.svg)](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md)
-[![Version](https://img.shields.io/badge/version-1.0.0a3-darkgreen.svg)](https://bootlib.ascoos.com)
+[![Ascoos Bootlib Framework - state of Official Website](https://img.shields.io/website?url=https://bootlib.ascoos.com&style=for-the-badge&labelColor=%234e555b&color=006400)](https://bootlib.ascoos.com) 
+[![License AGL-F](https://img.shields.io/badge/AGL--F-blue?style=for-the-badge&label=LICENSE&labelColor=%234e555b&color=873260)](https://github.com/ascoos/bootlib/blob/main/LICENSE_AGL-F.md)
+[![BootLib is Under Developement](https://img.shields.io/badge/1.0.0%20alpha%207-blue?style=for-the-badge&label=DEVELOPMENT%20EDITION&labelColor=041f60&color=034f84)](https://bootlib.ascoos.com)
 
 ***
 
@@ -16,9 +16,9 @@
 </summary>
 <br>
 
-![Ascoos Bootlib Framework - Forks](https://img.shields.io/github/forks/alexsoft-software/bootlib)
-![Ascoos Bootlib Framework - Stars](https://img.shields.io/github/stars/alexsoft-software/bootlib)
-![Ascoos Bootlib Framework - Watchers](https://img.shields.io/github/watchers/alexsoft-software/bootlib)
+![Ascoos Bootlib Framework - Forks](https://img.shields.io/github/forks/ascoos/bootlib)
+![Ascoos Bootlib Framework - Stars](https://img.shields.io/github/stars/ascoos/bootlib)
+![Ascoos Bootlib Framework - Watchers](https://img.shields.io/github/watchers/ascoos/bootlib)
 </details>
 
 <details>
@@ -27,15 +27,12 @@
 </summary>
 <br>
 
-[![Ascoos Bootlib Framework - Release](https://img.shields.io/github/v/release/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/releases)
-![Ascoos Bootlib Framework - Release Date](https://img.shields.io/github/release-date/alexsoft-software/bootlib?color=%230E80C0)
-![Ascoos Bootlib Framework - Downloads (all assets, all releases)](https://img.shields.io/github/downloads/alexsoft-software/bootlib/total?color=%230E80C0) 
-[![Ascoos Bootlib Framework - latest release tag](https://img.shields.io/github/tag/alexsoft-software/bootlib.svg)](https://github.com/alexsoft-software/bootlib/tags)
+[![Ascoos Bootlib Framework - Release](https://img.shields.io/github/v/release/ascoos/bootlib)](https://github.com/ascoos/bootlib/releases)
+![Ascoos Bootlib Framework - Release Date](https://img.shields.io/github/release-date/ascoos/bootlib?color=%230E80C0)
+![Ascoos Bootlib Framework - Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/bootlib/total?color=%230E80C0) 
+[![Ascoos Bootlib Framework - latest release tag](https://img.shields.io/github/tag/ascoos/bootlib.svg)](https://github.com/ascoos/bootlib/tags)
+![Ascoos Bootlib Framework - repo size](https://img.shields.io/github/repo-size/ascoos/bootlib)
 
-![Ascoos Bootlib Framework - repo size](https://img.shields.io/github/repo-size/alexsoft-software/bootlib)
-[![Ascoos Bootlib Framework - total lines](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=lines)](https://github.com/alexsoft-software/bootlib)
-[![Ascoos Bootlib Framework - source code lines](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=code)](https://github.com/alexsoft-software/bootlib) 
-[![Ascoos Bootlib Framework - files in repository](https://tokei.rs/b1/github/alexsoft-software/bootlib?category=files)](https://github.com/alexsoft-software/bootlib)
 </details>
 
 <details>
@@ -44,11 +41,11 @@
 </summary>
 <br>
 
-[![Ascoos Bootlib Framework - Open Issues](https://img.shields.io/github/issues/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/issues)
-[![Ascoos Bootlib Framework - Closed Issues](https://img.shields.io/github/issues-closed/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/issues)
-[![Ascoos Bootlib Framework - Open Pull Requests](https://img.shields.io/github/issues-pr/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/pulls)
-[![Ascoos Bootlib Framework - Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/alexsoft-software/bootlib)](https://github.com/alexsoft-software/bootlib/pulls)
-![Ascoos Bootlib Framework - Last Commit](https://img.shields.io/github/last-commit/alexsoft-software/bootlib)
+[![Ascoos Bootlib Framework - Open Issues](https://img.shields.io/github/issues/ascoos/bootlib)](https://github.com/ascoos/bootlib/issues)
+[![Ascoos Bootlib Framework - Closed Issues](https://img.shields.io/github/issues-closed/ascoos/bootlib)](https://github.com/ascoos/bootlib/issues)
+[![Ascoos Bootlib Framework - Open Pull Requests](https://img.shields.io/github/issues-pr/ascoos/bootlib)](https://github.com/ascoos/bootlib/pulls)
+[![Ascoos Bootlib Framework - Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/ascoos/bootlib)](https://github.com/ascoos/bootlib/pulls)
+![Ascoos Bootlib Framework - Last Commit](https://img.shields.io/github/last-commit/ascoos/bootlib)
 </details>
 
 <details>
@@ -58,7 +55,7 @@
 
 - [Official Website](https://bootlib.ascoos.com)
 - [Flex Examples](https://bootlib.ascoos.com/examples/flex/)
-- [Ascoos Framework](https://sourceforge.net/projects/ascoos-fw/)
+- [Ascoos OS](https://os.ascoos.com)
 </details>
 
 ---
@@ -86,7 +83,7 @@ It consists of a variety of components that are typically essential for completi
 
 The implementation of its components is usually done through the CSS3 UI Creator code, but there are components implemented via the jQuery `BootLib` class.
 
-This framework will be one of the core components of the new [Ascoos Framework](https://sourceforge.net/projects/ascoos-fw/) and, by extension, the new `Ascoos CMS`.
+This framework will be one of the core components of the new [Ascoos OS](https://os.ascoos.com) and, by extension, the new `Ascoos Oxyzen`.
 
 ---
 
@@ -122,10 +119,8 @@ To use BootLib, you need to include one (or two, if you want to use extended lib
 > For now, only the initial test libraries are available, as the framework is being expanded and improved almost daily until its final form.
 
 ```html
-
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
-
+   <link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+   <link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 ```
 
 To use the extended features with the BootLib Javascript Library (`Bojali` -- in Albanian, the word means anchorage... full of meaning for `BootLib`), you need to load the JavaScript file, which is not currently available. 
@@ -134,15 +129,15 @@ The JavaScript file will be available in an upcoming release.
 
 ```html
 
-<script type="javascript" src="https://bootlib.ascoos.com/dist/bootlib-1.0.0a1.min.js"></script>
+<script type="javascript" src="https://cdn.ascoos.com/bootlib/js/bootlib.min.js"></script>
 
 ```
 
 ### Quick Start
 Transform an anchor into a button with a motion effect in seconds:
 ```html
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 
 <a class="blib-btn blib-btn-outline-primary blib-e-ani-bounce-glow" href="#">Click here!</a>
 
@@ -173,8 +168,8 @@ In the following example (which you can view online at [Flex Examples](https://b
 <meta charset="utf-8" />
 <meta name="description" content="Creates a horizontal layout with three elements and effects." />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.min.css">
-<link rel="stylesheet" href="https://bootlib.ascoos.com/dist/bootlib-1.0.0a3.ext.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.min.css">
+<link rel="stylesheet" href="https://cdn.ascoos.com/bootlib/css/bootlib.ext.min.css">
 
 <style>
     body {margin: 0; padding: 0;}
@@ -335,7 +330,7 @@ The `Animation Playground` application will help you understand each effect, obt
 ---
 
 ## License
-This project is licensed under the [AGL-F](https://github.com/alexsoft-software/bootlib/blob/main/LICENSE_AGL-F.md) license. See the LICENSE file for details.
+This project is licensed under the [AGL-F](https://github.com/ascoos/bootlib/blob/main/LICENSE_AGL-F.md) license. See the LICENSE file for details.
 
 ---
 

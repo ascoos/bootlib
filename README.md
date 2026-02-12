@@ -1,4 +1,8 @@
-# ✨BootLib [UI Framework]
+![BootLib](https://cdn.ascoos.com/images/bootlib/bootlib-logo.png)
+
+---
+
+# BootLib UI Framework
 
 ### For the Greek version, see [README-GR.md](README-GR.md).
 
